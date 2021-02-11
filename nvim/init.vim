@@ -1,6 +1,7 @@
 
 call plug#begin()
 
+Plug 'ervandew/supertab'
 Plug 'scrooloose/nerdtree'
 Plug 'shougo/neocomplete.vim'
 Plug 'honza/vim-snippets'
